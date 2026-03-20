@@ -25,7 +25,7 @@ Software links are provided from official vendor sources or trusted open-source 
 > [!IMPORTANT]
 > If you find a link is broken or not working, please contact digitalforensicscookbook@gmail.com
 
-### [Datasets](https://github.com/cody-bounds/Digital-Forensics-Cookbook/blob/main/DATA-SETS.md)
+### [Datasets](https://github.com/cody-bounds/Digital-Forensics-Cookbook/blob/main/DATASETS.md)
 > Download sample forensic images and datasets used in the hands-on exercises.
 
 ### [Software Tools](https://github.com/cody-bounds/Digital-Forensics-Cookbook/blob/main/SOFTWARE-TOOLS.md)
