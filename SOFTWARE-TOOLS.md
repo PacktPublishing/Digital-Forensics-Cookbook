@@ -28,7 +28,7 @@ The following tools represent a practical baseline for performing the majority o
 
 ## 💾 Acquisition & Imaging
 
-### [FTK Imager](https://www.exterro.com/ftk-product-downloads/)
+### [FTK Imager](https://go.exterro.com/l/43312/2023-05-03/fc4b78)
 **Type:** Commercial  
 **Maintainer:** Exterro  
 **Purpose:** Evidence triage, acquisition, exporting, and analysis  
