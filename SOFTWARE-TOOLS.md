@@ -36,7 +36,7 @@ The following tools represent a practical baseline for performing the majority o
 ### [Magnet ACQUIRE](https://www.magnetforensics.com/resources/magnet-acquire/)
 **Type:** Commercial  
 **Maintainer:** Magnet Forensics  
-**Purpose:** Digital evidence acquisition for storage media and mobile devices  
+**Purpose:** Digital evidence acquisition for storage media and mobile devices (*Requires business e-mail)  
 
 ### [Live RAM Capturer](https://belkasoft.com/trial)
 **Type:** Commercial  
