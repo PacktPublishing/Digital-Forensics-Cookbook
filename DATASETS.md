@@ -74,13 +74,13 @@ All datasets were created from controlled test environments and have been saniti
 
 ---
 
-### [Android](https://drive.google.com/file/d/1POQ6S4dhz6UNucHw87Jp_ilr1sdmvPni/view?usp=sharing)
-<sup>[mirror1](https://mega.nz/file/afp0zBRJ#m_8eDz3Fb0SH6T_1PwzqcNraH5o22farRrA-dK5kDno)</sup><sup> | </sup>
+### [Android](https://drive.google.com/file/d/1vnA7CmHUpMXSd6n5Q00e0ri8eKBDnCAG/view?usp=sharing)
+<sup>[mirror1](https://mega.nz/file/LfAB0bRT#_6UNY2F-CcAxxTY6SLSCo4syoFEdoQxBUL7BVME6WRU)</sup><sup> | </sup>
 <sup>[mirror2](https://archive.org/download/dfc-android-dataset-v1/Android.7z)</sup>
 
-> **SHA256:** `8C32AA939CD5E0D730A1C8A765F8C8CEF02D9B0DB0C082337C0A735831DC8D22`  
-> **MD5:** `6CB5503E2B466B72AEC7F8FDB11F1CAB`  
-> **Archive Size:** 5.28GB | **Uncompressed:** 5.50GB  
+> **SHA256:** `D1CEADE5B0A1147731605A692CFECBBBF10D3B9DB55EF3420BA54BE54F4F2BA8`  
+> **MD5:** `7188177ACDC73A5EDB8F6B969E9D6881`  
+> **Archive Size:** 5.25GB | **Uncompressed:** 5.49GB  
 
 ---
 
